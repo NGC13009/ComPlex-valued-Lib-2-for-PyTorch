@@ -1,6 +1,6 @@
 # ComPlex-valued-Lib-2-for-PyTorch : A basic complex-valued network library written for PyTorch
 
-点击[此处](readme.md)查看汉语说明.
+点击[此处](readme_cn.md)查看汉语说明.
 
 ## Brief
 
