@@ -1,6 +1,6 @@
 # ComPlex-valued-Lib-2-for-PyTorch 复数网络构件库
 
-[Click here](readme_en.md) for the English version
+[Click here](readme.md) for the English version
 
 ## 简介
 
