@@ -16,8 +16,25 @@ complex_lib (cpl2) 封装了原生PyTorch复数，并提供了一些基础与流
 
 作者在一篇论文中使用了这部分代码, 如果代码对您的工作有帮助，请考虑引用它, 谢谢: [![DOI](https://img.shields.io/badge/DOI-10.1109%2FIGARSS55030.2025.11243251-blue)](https://doi.org/10.1109/IGARSS55030.2025.11243251)
 
+text:
+
 ```latex
-Y. Wang et al., "LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals," IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium, Brisbane, Australia, 2025, pp. 6050-6054, doi: 10.1109/IGARSS55030.2025.11243251. keywords: {Radar remote sensing;Computational modeling;Simulation;Radar detection;Radar;Object detection;Coherence;Robustness;High dynamic range;Signal to noise ratio;High dynamic range radar signals;radar target detection;phase coherence preservation;lightweight models;semi-synthetic dataset},
+Y. Wang et al., "LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals," IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium, Brisbane, Australia, 2025, pp. 6050-6054, doi: 10.1109/IGARSS55030.2025.11243251. 
+```
+
+bibtex:
+
+```latex
+@INPROCEEDINGS{11243251,
+  author={Wang, Yanbin and Chen, Xingyu and Wang, Yumiao and Wang, Xiang and Zang, Chuanfei and Cui, Guolong and Liu, Jiahuan},
+  booktitle={IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={6050-6054},
+  keywords={Radar remote sensing;Computational modeling;Simulation;Radar detection;Radar;Object detection;Coherence;Robustness;High dynamic range;Signal to noise ratio;High dynamic range radar signals;radar target detection;phase coherence preservation;lightweight models;semi-synthetic dataset},
+  doi={10.1109/IGARSS55030.2025.11243251}}
 ```
 
 ### 安装
